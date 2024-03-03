@@ -135,10 +135,11 @@ The average price per order per person is approximately $4.69. This means that o
 ## How to Access
 To explore the detailed analysis, follow these steps:
 1. **Clone the Repository**: Clone this GitHub repository to your local machine.
-2. **Open Power BI**: Open Power BI Desktop on your computer.
-3. **Connect to Data**: Import the provided CSV files into Power BI to populate the data.
-4. **Load Dashboard**: Open the Power BI file (`dashboard.pbix`) included in the repository.
-5. **Explore**: Navigate through the dashboard tabs to view different visualizations and insights.
+2. **Open Excel**: Open Microsoft Excel on your computer.
+3. **Import Data**: Import the provided CSV files into Excel to populate the data.
+4. **Analyze Data**: Use Excel's features to analyze the data and create visualizations.
+5. **Explore**: Navigate through the data and worksheets to view different insights.
+
 
 ## Data Sources
 The data used in this analysis is sourced from CSV files provided in the repository. These files contain information on sales, profits, product quantities, store locations, and transaction details.
